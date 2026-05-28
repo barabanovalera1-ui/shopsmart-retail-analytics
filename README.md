@@ -40,13 +40,8 @@ Realistic synthetic dataset generated with Python:
 
 ##  Dashboard Screenshots
 
-### Page 1 — Executive Overview
-page1_executive.png
-
-### Page 2 — Customer Analysis
+![Executive Overview](page1_executive.png)
 ![Customer Analysis](page2_customers.png)
-
-### Page 3 — Product & Returns
 ![Product & Returns](page3_products.png)
 
 ##  Project Structure
