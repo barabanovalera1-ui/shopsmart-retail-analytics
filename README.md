@@ -40,9 +40,9 @@ Realistic synthetic dataset generated with Python:
 
 ##  Dashboard Screenshots
 
-![Executive Overview](page1_executive.png)
-![Customer Analysis](page2_customers.png)
-![Product & Returns](page3_products.png)
+![Executive Overview](page1_executive.png.png)
+![Customer Analysis](page2_customers.png.png)
+![Product & Returns](page3_products.png.png)
 
 ##  Project Structure
 shopsmart-retail-analytics/
