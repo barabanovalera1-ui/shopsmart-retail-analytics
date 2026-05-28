@@ -41,7 +41,7 @@ Realistic synthetic dataset generated with Python:
 ##  Dashboard Screenshots
 
 ### Page 1 — Executive Overview
-![Executive Overview](page1_executive.png)
+page1_executive.png
 
 ### Page 2 — Customer Analysis
 ![Customer Analysis](page2_customers.png)
