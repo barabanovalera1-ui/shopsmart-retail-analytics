@@ -41,11 +41,18 @@ Realistic synthetic dataset generated with Python:
 
 ##  Dashboard Screenshots
 
-![Executive Overview](page1_executive.png.png)
-![Customer Analysis](page2_customers.png.png)
-![Product & Returns](page3_products.png.png)
+##  Dashboard Screenshots
 
-## 📈 Python EDA Visualizations
+### Page 1 — Executive Overview
+![Executive Overview](page1_executive.png)
+
+### Page 2 — Customer Analysis
+![Customer Analysis](page2_customers.png)
+
+### Page 3 — Product & Returns
+![Product & Returns](page3_products.png)
+
+##  Python EDA Visualizations
 
 ### Revenue by Category
 ![Revenue by Category](chart1_revenue_by_category.png)
@@ -58,7 +65,6 @@ Realistic synthetic dataset generated with Python:
 
 ### Customer Segmentation
 ![Customer Segmentation](chart4_customer_segmentation.png)
-
 ##  Project Structure
 shopsmart-retail-analytics/
 ├── generate_dataset.py           # Python dataset generator
