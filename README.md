@@ -21,6 +21,7 @@ Management needs to understand:
 | Power BI | Interactive dashboard |
 | Excel | Initial data exploration |
 | GitHub | Version control & portfolio |
+| matplotlib / seaborn | Data visualization |
 
 ##  Dataset
 Realistic synthetic dataset generated with Python:
@@ -46,9 +47,13 @@ Realistic synthetic dataset generated with Python:
 
 ##  Project Structure
 shopsmart-retail-analytics/
-├── generate_dataset.py        # Python dataset generator
-├── shopsmart_sql_analysis.sql # 10 SQL analytical queries
-├── page1_executive.png        # Dashboard screenshot
-├── page2_customers.png        # Dashboard screenshot
-└── page3_products.png         # Dashboard screenshot
-
+├── generate_dataset.py           # Python dataset generator
+├── shopsmart_eda_analysis.ipynb  # Python EDA + visualizations
+├── shopsmart_sql_analysis.sql    # 16 SQL analytical queries
+├── chart1_revenue_by_category.png
+├── chart2_monthly_trend.png
+├── chart3_return_analysis.png
+├── chart4_customer_segmentation.png
+├── page1_executive.png.png       # Power BI dashboard
+├── page2_customers.png.png
+└── page3_products.png.png
