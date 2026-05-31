@@ -45,6 +45,20 @@ Realistic synthetic dataset generated with Python:
 ![Customer Analysis](page2_customers.png.png)
 ![Product & Returns](page3_products.png.png)
 
+## 📈 Python EDA Visualizations
+
+### Revenue by Category
+![Revenue by Category](chart1_revenue_by_category.png)
+
+### Monthly Revenue Trend
+![Monthly Trend](chart2_monthly_trend.png)
+
+### Return Rate Analysis
+![Return Analysis](chart3_return_analysis.png)
+
+### Customer Segmentation
+![Customer Segmentation](chart4_customer_segmentation.png)
+
 ##  Project Structure
 shopsmart-retail-analytics/
 ├── generate_dataset.py           # Python dataset generator
