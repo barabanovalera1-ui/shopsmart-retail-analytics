@@ -38,6 +38,9 @@ Realistic synthetic dataset generated with Python:
 -  **Age group 36-50** generates the highest revenue
 -  **Return rate is 8%** — Damaged items are the top return reason
 -  **Average Order Value: ₪383**
+-  ## Business Recommendations
+
+Full analysis and recommendations: [Business Insights Report](business_insights.md)
 
 ##  Dashboard Screenshots
 
