@@ -74,7 +74,7 @@ Full analysis and recommendations: [Business Insights Report](business_insights.
 ##  Project Structure
 ```
 shopsmart-retail-analytics/
-├── generate_dataset.py           # Python dataset generator
+├── generate_dataset.ipynb           # Python dataset generator
 ├── shopsmart_eda_analysis.ipynb  # Python EDA + visualizations
 ├── shopsmart_sql_analysis.sql    # 16 SQL analytical queries
 ├── business_insights.md          # Full analysis & recommendations
