@@ -5,7 +5,7 @@ End-to-end data analytics project simulating real work as a Junior Data Analyst
 at a fictional Israeli e-commerce company "ShopSmart Israel".
 
 ##  Business Problem
-The company's revenue is growing but profitability is declining. 
+The company's revenue is growing, but returns and category mix are putting pressure on results. 
 Management needs to understand:
 - Who are our most valuable customers?
 - Which product categories drive the most revenue?
@@ -38,11 +38,13 @@ Realistic synthetic dataset generated with Python:
 -  **Age group 36-50** generates the highest revenue
 -  **Return rate is 8%** — Damaged items are the top return reason
 -  **Average Order Value: ₪383**
--  ## Business Recommendations
+
+##  Business Recommendations
+- **Reduce damaged-item returns** — damaged items are the top return reason (8% return rate)
+- **Plan inventory and campaigns for November** — the peak sales month, driven by Black Friday
+- **Focus marketing on the 36–50 age group** — the highest-revenue customer segment
 
 Full analysis and recommendations: [Business Insights Report](business_insights.md)
-
-##  Dashboard Screenshots
 
 ##  Dashboard Screenshots
 
@@ -68,15 +70,19 @@ Full analysis and recommendations: [Business Insights Report](business_insights.
 
 ### Customer Segmentation
 ![Customer Segmentation](chart4_customer_segmentation.png)
+
 ##  Project Structure
+```
 shopsmart-retail-analytics/
 ├── generate_dataset.py           # Python dataset generator
 ├── shopsmart_eda_analysis.ipynb  # Python EDA + visualizations
 ├── shopsmart_sql_analysis.sql    # 16 SQL analytical queries
+├── business_insights.md          # Full analysis & recommendations
 ├── chart1_revenue_by_category.png
 ├── chart2_monthly_trend.png
 ├── chart3_return_analysis.png
 ├── chart4_customer_segmentation.png
-├── page1_executive.png.png       # Power BI dashboard
-├── page2_customers.png.png
-└── page3_products.png.png
+├── page1_executive.png           # Power BI dashboard
+├── page2_customers.png
+└── page3_products.png
+```
