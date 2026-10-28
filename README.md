@@ -17,9 +17,7 @@ Management needs to understand:
 |---|---|
 | Python (pandas) | Dataset generation & EDA |
 | SQL Server (SSMS) | Data analysis & KPI queries |
-| Power Query | ETL & data transformation |
-| Power BI | Interactive dashboard |
-| Excel | Initial data exploration |
+| Power BI | Interactive dashboard (screenshots below) |
 | GitHub | Version control & portfolio |
 | matplotlib / seaborn | Data visualization |
 
@@ -29,14 +27,14 @@ Realistic synthetic dataset generated with Python:
 - **customers** — 1,000 rows  
 - **returns** — 640 rows
 - **Date range:** 2023–2024
-- **Total Revenue:** ₪3,065,651
+- **Total Revenue:** ₪3,065,652
 
 ##  Key Insights
 -  **Electronics** is the top category generating 49% of total revenue
--  **South region** leads all regions with ₪718,397 in revenue
+-  **South region** leads with ₪718,397 — driven by the largest customer base, not higher spend per customer
 -  **November** is the peak month (Black Friday effect)
 -  **Age group 36-50** generates the highest revenue
--  **Return rate is 8%** — Damaged items are the top return reason
+-  **Return rate is 8%** — Damaged items are the top return reason (30% of returns)
 -  **Average Order Value: ₪383**
 
 ##  Business Recommendations
@@ -71,10 +69,21 @@ Full analysis and recommendations: [Business Insights Report](business_insights.
 ### Customer Segmentation
 ![Customer Segmentation](chart4_customer_segmentation.png)
 
+##  How to Run
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
+1. Run `generate_dataset.ipynb` — creates `data/customers.csv`, `data/orders.csv`, `data/returns.csv` 
+   (the CSVs are already included in the repo, so this step is optional)
+2. Run `shopsmart_eda_analysis.ipynb` — produces the 4 charts
+3. Load the CSVs into SQL Server (database `ShopSmart`) and run `shopsmart_sql_analysis.sql`
+
 ##  Project Structure
 ```
 shopsmart-retail-analytics/
-├── generate_dataset.ipynb           # Python dataset generator
+├── data/                         # Generated CSVs: customers, orders, returns
+├── generate_dataset.ipynb        # Python dataset generator
 ├── shopsmart_eda_analysis.ipynb  # Python EDA + visualizations
 ├── shopsmart_sql_analysis.sql    # 16 SQL analytical queries
 ├── business_insights.md          # Full analysis & recommendations
@@ -84,5 +93,6 @@ shopsmart-retail-analytics/
 ├── chart4_customer_segmentation.png
 ├── page1_executive.png           # Power BI dashboard
 ├── page2_customers.png
-└── page3_products.png
+├── page3_products.png
+└── requirements.txt
 ```

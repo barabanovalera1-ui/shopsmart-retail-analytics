@@ -25,7 +25,8 @@ diversify revenue and reduce concentration risk.
 ### 2. Strong Seasonal Pattern
 
 Finding: November consistently peaks in both 2023 and 2024, driven by Black Friday. 
-Revenue drops sharply in December and reaches its lowest point in June.
+December stays almost as high as November (₪229K vs ₪232K in 2023), then revenue 
+drops sharply in January and reaches its lowest point in June.
 
 The company is likely underprepared for demand spikes and overstocked during slow months, 
 leading to inventory inefficiency.
@@ -35,30 +36,34 @@ in October. Introduce mid-year promotions in June to flatten the seasonal curve.
 
 ---
 
-### 3. South Region Outperforms Tel Aviv
+### 3. South Region Leads — Mainly Due to Customer Count
 
-Finding: South region generates ₪718,397 — outperforming Tel Aviv at ₪614,652, 
-despite Tel Aviv having significantly higher population density.
+Finding: South region generates ₪718,397 — ahead of Tel Aviv at ₪614,652.
 
-The company may be underinvesting in Tel Aviv where the potential customer base 
-is much larger.
+However, South also has the most active customers (224 vs 200 in Tel Aviv). 
+Revenue per customer is similar across regions (₪2,929–₪3,207), with South only 
+~4% above Tel Aviv. The gap is driven by customer base size, not by higher spend.
 
-Recommendation: Investigate what drives South performance — whether it is lower 
-competition, stronger brand loyalty, or different product mix. Replicate the 
-winning strategy in Tel Aviv and Center regions.
+Recommendation: Focus on customer acquisition rather than spend per customer. 
+Tel Aviv, Center and Jerusalem have similar spend levels, so growing their customer 
+base is the main lever for regional revenue growth.
 
 ---
 
-### 4. Home Category Return Rate
+### 4. Returns and Damaged Items
 
-Finding: Home category has the highest return rate at 8.79%. Total returns across 
-all categories amount to ₪184,110.
+Finding: The overall return rate is 8.0% (640 of 8,000 orders). Total returned amount 
+across all categories is ₪184,113 over two years (~₪92K per year).
 
-30% of all returns are caused by damaged items, suggesting packaging or handling issues 
-rather than product quality problems.
+Home has the highest return rate (8.79%) and Beauty the lowest (6.83%), but this 
+difference is not statistically significant (chi-square test, p ≈ 0.10) — return rates 
+are effectively the same across categories.
 
-Recommendation: Audit Home category packaging and product descriptions. 
-Reducing damaged returns by 50% could recover approximately ₪27,000 annually.
+30% of all returns are caused by damaged items (₪55,629 over two years), suggesting 
+packaging or handling issues across the whole catalog rather than in one category.
+
+Recommendation: Audit packaging and delivery handling company-wide. 
+Reducing damaged returns by 50% could recover approximately ₪14,000 per year.
 
 ---
 
@@ -93,9 +98,9 @@ of the App channel potential. Consider automating or phasing out the Phone chann
 | Priority | Recommendation | Expected Impact |
 |---|---|---|
 | High | Diversify revenue beyond Electronics | Reduce concentration risk |
-| High | Fix Home category packaging | Reduce ₪184K in annual returns |
+| High | Improve packaging & delivery handling | Recover ~₪14K/year in damaged returns |
 | Medium | Seasonal inventory planning | Improve Q4 margins |
-| Medium | Tel Aviv market expansion | Unlock high-density market |
+| Medium | Customer acquisition in Tel Aviv, Center, Jerusalem | Grow regional revenue |
 | Low | Bronze loyalty upgrade campaign | Increase customer LTV |
 | Low | Mobile app investment | Grow digital channel share |
 
@@ -107,6 +112,4 @@ SQL — revenue queries, return rate analysis, RFM segmentation
 
 Python — exploratory data analysis, visualizations, statistical summary
 
-Power BI — interactive dashboard with DAX measures and data modeling
-
-Excel — initial data exploration with PivotTables
+Power BI — interactive dashboard (screenshots in README)

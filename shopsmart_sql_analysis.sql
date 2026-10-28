@@ -127,7 +127,7 @@ GROUP BY channel
 ORDER BY total_revenue DESC;
 
 
--- 10. CUSTOMER SEGMENTATION BY ORDER VALUE
+-- 10. ORDER SEGMENTATION BY ORDER VALUE
 -- Business question: How can we classify orders by size?
 
 SELECT 
@@ -140,6 +140,8 @@ SELECT
     END AS order_segment
 FROM orders
 ORDER BY revenue DESC;
+
+
 -- 11. TOP 3 CUSTOMERS PER REGION
 -- Business question: Who are the top 3 most valuable customers in each region?
 -- Technique: CTE + Window Function (ROW_NUMBER + PARTITION BY)
@@ -246,7 +248,7 @@ ORDER BY customer_rank;
 
 -- 15. COHORT ANALYSIS — FIRST PURCHASE MONTH
 -- Business question: Do customers who joined in certain months spend more?
--- Technique: CTE + Window Function (MIN OVER)
+-- Technique: CTEs + GROUP BY with MIN() to find first purchase
 WITH customer_first_order AS (
     -- Step 1: Find each customer's first purchase month
     SELECT 
