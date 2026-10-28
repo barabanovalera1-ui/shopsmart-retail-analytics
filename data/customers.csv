@@ -1,0 +1,1001 @@
+customer_id,registration_date,city,region,age_group,gender,loyalty_tier
+1,2022-05-21,Tel Aviv,Tel Aviv,26-35,M,Bronze
+2,2022-12-13,Petah Tikva,Center,18-25,F,Platinum
+3,2022-02-17,Tel Aviv,Tel Aviv,26-35,M,Silver
+4,2022-01-14,Maale Adumim,Jerusalem,26-35,F,Silver
+5,2022-10-29,Holon,Center,36-50,M,Bronze
+6,2022-06-24,Holon,Center,36-50,M,Bronze
+7,2022-02-22,Rehovot,Center,18-25,F,Bronze
+8,2022-06-26,Givatayim,Tel Aviv,36-50,M,Gold
+9,2022-07-13,Beer Sheva,South,18-25,F,Silver
+10,2022-10-23,Beit Shemesh,Jerusalem,26-35,M,Silver
+11,2022-05-29,Ramat Gan,Tel Aviv,18-25,M,Bronze
+12,2022-05-23,Bat Yam,Tel Aviv,50+,F,Platinum
+13,2022-07-01,Rehovot,Center,26-35,F,Gold
+14,2022-10-01,Ramat Gan,Tel Aviv,26-35,M,Bronze
+15,2022-05-19,Ashdod,South,26-35,F,Bronze
+16,2022-01-17,Ramat Gan,Tel Aviv,36-50,F,Bronze
+17,2022-04-19,Haifa,North,36-50,M,Bronze
+18,2022-11-26,Ashdod,South,50+,M,Silver
+19,2022-05-07,Nazareth,North,36-50,F,Bronze
+20,2022-07-05,Beit Shemesh,Jerusalem,26-35,M,Bronze
+21,2022-02-16,Beit Shemesh,Jerusalem,18-25,M,Silver
+22,2022-12-15,Rishon LeZion,Center,50+,M,Bronze
+23,2022-11-02,Ashdod,South,50+,F,Bronze
+24,2022-12-15,Jerusalem,Jerusalem,18-25,F,Bronze
+25,2022-05-31,Haifa,North,50+,M,Bronze
+26,2022-05-15,Beer Sheva,South,26-35,M,Silver
+27,2022-03-20,Nazareth,North,36-50,M,Bronze
+28,2022-01-01,Maale Adumim,Jerusalem,36-50,F,Silver
+29,2022-07-05,Tel Aviv,Tel Aviv,36-50,M,Silver
+30,2022-10-18,Ramat Gan,Tel Aviv,18-25,M,Bronze
+31,2022-09-30,Beer Sheva,South,26-35,M,Silver
+32,2022-05-16,Eilat,South,50+,M,Bronze
+33,2022-12-20,Maale Adumim,Jerusalem,26-35,F,Bronze
+34,2022-08-13,Ashkelon,South,50+,M,Gold
+35,2022-02-02,Rishon LeZion,Center,36-50,M,Platinum
+36,2022-04-28,Maale Adumim,Jerusalem,26-35,M,Gold
+37,2022-04-28,Tel Aviv,Tel Aviv,18-25,M,Bronze
+38,2022-09-21,Haifa,North,26-35,F,Bronze
+39,2022-10-04,Eilat,South,26-35,F,Silver
+40,2022-07-28,Holon,Center,26-35,M,Bronze
+41,2022-07-01,Bat Yam,Tel Aviv,50+,F,Bronze
+42,2022-12-11,Beer Sheva,South,18-25,M,Bronze
+43,2022-02-25,Ashkelon,South,26-35,M,Bronze
+44,2022-03-13,Holon,Center,50+,M,Gold
+45,2022-05-08,Tiberias,North,18-25,F,Bronze
+46,2022-01-26,Jerusalem,Jerusalem,18-25,M,Silver
+47,2022-07-28,Rishon LeZion,Center,50+,F,Bronze
+48,2022-01-31,Holon,Center,26-35,F,Silver
+49,2022-05-16,Bat Yam,Tel Aviv,50+,F,Silver
+50,2022-03-21,Ashdod,South,26-35,F,Bronze
+51,2022-10-24,Petah Tikva,Center,18-25,F,Platinum
+52,2022-10-27,Tel Aviv,Tel Aviv,50+,M,Silver
+53,2022-04-06,Tel Aviv,Tel Aviv,18-25,M,Gold
+54,2022-03-03,Holon,Center,26-35,M,Gold
+55,2022-08-03,Jerusalem,Jerusalem,36-50,F,Silver
+56,2022-05-03,Rehovot,Center,36-50,F,Gold
+57,2022-08-23,Rehovot,Center,36-50,M,Bronze
+58,2022-11-15,Bat Yam,Tel Aviv,18-25,M,Bronze
+59,2022-09-17,Jerusalem,Jerusalem,36-50,M,Bronze
+60,2022-05-06,Haifa,North,36-50,F,Bronze
+61,2022-10-06,Holon,Center,36-50,M,Bronze
+62,2022-12-06,Beit Shemesh,Jerusalem,18-25,M,Bronze
+63,2022-02-24,Haifa,North,26-35,F,Gold
+64,2022-06-25,Nazareth,North,26-35,F,Bronze
+65,2022-05-09,Beit Shemesh,Jerusalem,18-25,M,Bronze
+66,2022-01-23,Ashkelon,South,18-25,F,Silver
+67,2022-03-24,Rehovot,Center,50+,F,Bronze
+68,2022-02-27,Jerusalem,Jerusalem,18-25,M,Gold
+69,2022-07-09,Jerusalem,Jerusalem,26-35,F,Bronze
+70,2022-06-07,Petah Tikva,Center,36-50,M,Platinum
+71,2022-12-16,Nazareth,North,26-35,M,Silver
+72,2022-11-14,Tiberias,North,26-35,M,Bronze
+73,2022-07-31,Rishon LeZion,Center,18-25,M,Bronze
+74,2022-12-09,Tiberias,North,26-35,F,Gold
+75,2022-07-15,Petah Tikva,Center,18-25,F,Silver
+76,2022-08-24,Rishon LeZion,Center,36-50,F,Silver
+77,2022-01-13,Rishon LeZion,Center,26-35,F,Silver
+78,2022-02-05,Acre,North,36-50,F,Bronze
+79,2022-12-14,Beit Shemesh,Jerusalem,36-50,M,Bronze
+80,2022-04-02,Givatayim,Tel Aviv,36-50,M,Bronze
+81,2022-06-26,Bat Yam,Tel Aviv,36-50,F,Gold
+82,2022-03-01,Maale Adumim,Jerusalem,50+,M,Silver
+83,2022-12-29,Haifa,North,50+,M,Bronze
+84,2022-12-18,Maale Adumim,Jerusalem,26-35,F,Bronze
+85,2022-12-07,Beer Sheva,South,36-50,F,Bronze
+86,2022-09-17,Givatayim,Tel Aviv,36-50,F,Bronze
+87,2022-12-23,Tiberias,North,36-50,M,Silver
+88,2022-12-07,Holon,Center,50+,M,Silver
+89,2022-06-04,Maale Adumim,Jerusalem,50+,M,Gold
+90,2022-04-18,Acre,North,50+,F,Bronze
+91,2022-08-15,Ashdod,South,26-35,F,Bronze
+92,2022-05-26,Petah Tikva,Center,36-50,M,Silver
+93,2022-04-26,Rehovot,Center,26-35,M,Silver
+94,2022-05-06,Tel Aviv,Tel Aviv,50+,M,Silver
+95,2022-11-19,Ashdod,South,26-35,F,Silver
+96,2022-05-05,Ashdod,South,26-35,M,Bronze
+97,2022-04-23,Bat Yam,Tel Aviv,26-35,F,Silver
+98,2022-03-04,Ramat Gan,Tel Aviv,50+,M,Bronze
+99,2022-08-15,Ashkelon,South,50+,F,Bronze
+100,2022-08-19,Holon,Center,36-50,M,Bronze
+101,2022-11-17,Tiberias,North,26-35,F,Bronze
+102,2023-01-01,Beer Sheva,South,36-50,M,Silver
+103,2022-06-13,Acre,North,18-25,M,Bronze
+104,2022-07-16,Rishon LeZion,Center,26-35,M,Silver
+105,2022-07-28,Bat Yam,Tel Aviv,36-50,F,Gold
+106,2022-04-16,Beer Sheva,South,50+,F,Bronze
+107,2022-01-11,Maale Adumim,Jerusalem,50+,F,Bronze
+108,2022-06-02,Givatayim,Tel Aviv,50+,F,Silver
+109,2022-10-07,Maale Adumim,Jerusalem,26-35,F,Bronze
+110,2022-08-12,Rehovot,Center,50+,M,Bronze
+111,2022-12-09,Ashkelon,South,50+,M,Bronze
+112,2022-11-15,Eilat,South,18-25,F,Bronze
+113,2022-12-06,Maale Adumim,Jerusalem,18-25,M,Gold
+114,2022-08-25,Eilat,South,26-35,M,Gold
+115,2022-06-17,Tiberias,North,26-35,F,Silver
+116,2022-07-14,Acre,North,36-50,F,Gold
+117,2022-08-29,Haifa,North,18-25,M,Gold
+118,2022-11-29,Nazareth,North,18-25,M,Bronze
+119,2022-04-13,Ramat Gan,Tel Aviv,18-25,M,Gold
+120,2022-08-31,Rishon LeZion,Center,18-25,M,Silver
+121,2022-07-08,Ashkelon,South,26-35,M,Gold
+122,2022-02-25,Rehovot,Center,18-25,F,Gold
+123,2022-07-12,Maale Adumim,Jerusalem,50+,M,Bronze
+124,2022-02-22,Ramat Gan,Tel Aviv,36-50,M,Bronze
+125,2022-06-27,Jerusalem,Jerusalem,50+,F,Bronze
+126,2022-01-07,Givatayim,Tel Aviv,50+,F,Bronze
+127,2022-07-05,Bat Yam,Tel Aviv,50+,M,Gold
+128,2022-09-25,Eilat,South,36-50,F,Gold
+129,2022-10-31,Ashdod,South,36-50,F,Bronze
+130,2022-05-23,Petah Tikva,Center,50+,M,Silver
+131,2022-06-22,Ashdod,South,18-25,F,Bronze
+132,2022-09-07,Nazareth,North,26-35,F,Bronze
+133,2022-05-24,Acre,North,36-50,M,Bronze
+134,2022-02-13,Jerusalem,Jerusalem,26-35,F,Bronze
+135,2022-12-20,Eilat,South,50+,F,Gold
+136,2022-02-17,Beer Sheva,South,36-50,M,Bronze
+137,2022-06-06,Eilat,South,36-50,F,Silver
+138,2022-06-26,Maale Adumim,Jerusalem,50+,F,Silver
+139,2022-05-19,Tiberias,North,36-50,F,Bronze
+140,2022-04-09,Petah Tikva,Center,36-50,M,Platinum
+141,2022-04-05,Maale Adumim,Jerusalem,26-35,M,Platinum
+142,2022-10-29,Ashkelon,South,36-50,M,Bronze
+143,2022-04-27,Rehovot,Center,36-50,M,Bronze
+144,2022-12-29,Haifa,North,26-35,F,Bronze
+145,2022-10-11,Tel Aviv,Tel Aviv,36-50,M,Bronze
+146,2022-01-07,Beer Sheva,South,36-50,F,Bronze
+147,2022-06-24,Ashdod,South,26-35,M,Silver
+148,2022-02-28,Tiberias,North,18-25,F,Silver
+149,2022-10-23,Beer Sheva,South,18-25,M,Bronze
+150,2022-02-13,Rehovot,Center,26-35,M,Bronze
+151,2022-11-07,Beit Shemesh,Jerusalem,26-35,F,Gold
+152,2022-06-02,Ashdod,South,50+,F,Bronze
+153,2022-01-31,Maale Adumim,Jerusalem,18-25,M,Bronze
+154,2022-12-05,Rehovot,Center,18-25,M,Bronze
+155,2022-10-10,Rishon LeZion,Center,18-25,M,Platinum
+156,2022-08-19,Bat Yam,Tel Aviv,50+,F,Bronze
+157,2022-05-28,Ramat Gan,Tel Aviv,36-50,F,Silver
+158,2022-05-16,Ramat Gan,Tel Aviv,26-35,F,Silver
+159,2022-11-28,Ramat Gan,Tel Aviv,26-35,F,Bronze
+160,2022-01-31,Petah Tikva,Center,26-35,F,Silver
+161,2022-10-19,Maale Adumim,Jerusalem,36-50,F,Bronze
+162,2022-12-19,Bat Yam,Tel Aviv,36-50,F,Silver
+163,2022-08-13,Tiberias,North,18-25,M,Silver
+164,2022-11-06,Ashkelon,South,36-50,M,Silver
+165,2022-12-12,Ramat Gan,Tel Aviv,18-25,F,Bronze
+166,2022-03-31,Jerusalem,Jerusalem,50+,F,Gold
+167,2022-10-27,Nazareth,North,50+,F,Bronze
+168,2022-06-28,Bat Yam,Tel Aviv,50+,F,Bronze
+169,2022-03-24,Haifa,North,36-50,F,Bronze
+170,2022-12-06,Ashkelon,South,50+,M,Silver
+171,2022-06-11,Beer Sheva,South,36-50,F,Silver
+172,2022-09-21,Bat Yam,Tel Aviv,18-25,F,Bronze
+173,2022-04-07,Beer Sheva,South,36-50,F,Silver
+174,2022-04-15,Beer Sheva,South,36-50,M,Bronze
+175,2022-12-24,Tiberias,North,50+,M,Silver
+176,2022-12-30,Ramat Gan,Tel Aviv,26-35,F,Bronze
+177,2022-10-10,Jerusalem,Jerusalem,50+,M,Silver
+178,2022-08-25,Petah Tikva,Center,18-25,M,Bronze
+179,2022-09-18,Ashkelon,South,36-50,F,Gold
+180,2022-05-05,Ashdod,South,50+,M,Bronze
+181,2022-11-03,Eilat,South,26-35,M,Bronze
+182,2022-06-24,Tiberias,North,36-50,M,Bronze
+183,2022-10-28,Acre,North,50+,M,Gold
+184,2022-06-26,Ashdod,South,36-50,F,Gold
+185,2022-04-07,Ashkelon,South,26-35,F,Bronze
+186,2022-01-23,Holon,Center,36-50,F,Silver
+187,2022-12-06,Ashdod,South,26-35,F,Gold
+188,2022-09-15,Ramat Gan,Tel Aviv,36-50,M,Silver
+189,2022-09-27,Beer Sheva,South,50+,M,Silver
+190,2022-12-02,Holon,Center,26-35,M,Bronze
+191,2022-06-23,Ashkelon,South,50+,M,Bronze
+192,2022-06-12,Tiberias,North,50+,M,Gold
+193,2022-05-01,Jerusalem,Jerusalem,36-50,M,Gold
+194,2022-02-20,Bat Yam,Tel Aviv,18-25,F,Silver
+195,2022-01-15,Rehovot,Center,18-25,F,Bronze
+196,2022-07-03,Givatayim,Tel Aviv,36-50,F,Bronze
+197,2022-09-29,Rishon LeZion,Center,50+,M,Silver
+198,2022-02-10,Rishon LeZion,Center,50+,M,Gold
+199,2022-04-29,Eilat,South,50+,F,Gold
+200,2022-12-08,Ashkelon,South,18-25,F,Silver
+201,2022-02-07,Nazareth,North,50+,F,Silver
+202,2022-11-24,Beit Shemesh,Jerusalem,50+,F,Bronze
+203,2022-04-12,Ashkelon,South,50+,F,Bronze
+204,2022-07-15,Ramat Gan,Tel Aviv,36-50,F,Gold
+205,2022-12-04,Haifa,North,50+,F,Silver
+206,2022-11-07,Tel Aviv,Tel Aviv,50+,F,Bronze
+207,2022-04-23,Rehovot,Center,26-35,F,Bronze
+208,2022-11-18,Petah Tikva,Center,18-25,F,Silver
+209,2022-10-24,Beer Sheva,South,36-50,M,Bronze
+210,2022-06-17,Givatayim,Tel Aviv,50+,M,Bronze
+211,2022-10-04,Rishon LeZion,Center,36-50,F,Silver
+212,2022-09-04,Rehovot,Center,36-50,F,Silver
+213,2022-02-08,Bat Yam,Tel Aviv,26-35,M,Silver
+214,2022-02-16,Ashkelon,South,50+,M,Bronze
+215,2022-08-21,Haifa,North,36-50,F,Silver
+216,2022-11-23,Beit Shemesh,Jerusalem,36-50,M,Bronze
+217,2022-01-13,Holon,Center,36-50,M,Bronze
+218,2022-12-25,Bat Yam,Tel Aviv,36-50,F,Silver
+219,2022-01-24,Ramat Gan,Tel Aviv,18-25,F,Silver
+220,2022-02-19,Beer Sheva,South,26-35,M,Gold
+221,2022-07-09,Ashdod,South,50+,M,Silver
+222,2022-09-08,Beer Sheva,South,50+,F,Silver
+223,2022-04-22,Givatayim,Tel Aviv,50+,F,Bronze
+224,2022-02-20,Rehovot,Center,36-50,F,Bronze
+225,2022-05-22,Bat Yam,Tel Aviv,26-35,M,Bronze
+226,2022-12-06,Beer Sheva,South,26-35,M,Bronze
+227,2022-05-05,Givatayim,Tel Aviv,26-35,M,Platinum
+228,2022-10-28,Ramat Gan,Tel Aviv,26-35,M,Bronze
+229,2022-11-02,Nazareth,North,18-25,F,Gold
+230,2022-10-04,Rishon LeZion,Center,36-50,M,Silver
+231,2022-03-09,Tel Aviv,Tel Aviv,18-25,F,Silver
+232,2022-01-09,Rehovot,Center,26-35,F,Silver
+233,2022-08-04,Ramat Gan,Tel Aviv,18-25,M,Silver
+234,2022-07-05,Ashdod,South,18-25,F,Bronze
+235,2022-11-11,Jerusalem,Jerusalem,18-25,F,Bronze
+236,2022-02-01,Beer Sheva,South,50+,F,Silver
+237,2022-09-09,Beer Sheva,South,50+,M,Bronze
+238,2022-11-08,Givatayim,Tel Aviv,26-35,M,Bronze
+239,2022-11-16,Rehovot,Center,36-50,F,Silver
+240,2022-05-31,Maale Adumim,Jerusalem,50+,F,Bronze
+241,2022-12-02,Tel Aviv,Tel Aviv,26-35,F,Gold
+242,2022-07-31,Eilat,South,36-50,F,Platinum
+243,2022-02-18,Ashdod,South,36-50,F,Gold
+244,2022-07-11,Acre,North,26-35,F,Bronze
+245,2022-02-13,Tel Aviv,Tel Aviv,18-25,F,Bronze
+246,2022-03-08,Givatayim,Tel Aviv,18-25,F,Gold
+247,2022-07-01,Bat Yam,Tel Aviv,50+,M,Bronze
+248,2022-06-30,Acre,North,18-25,M,Platinum
+249,2022-04-25,Holon,Center,18-25,F,Platinum
+250,2022-02-28,Beit Shemesh,Jerusalem,36-50,M,Gold
+251,2022-11-08,Beer Sheva,South,36-50,M,Bronze
+252,2022-12-26,Rehovot,Center,36-50,F,Bronze
+253,2022-04-03,Haifa,North,26-35,F,Gold
+254,2022-11-21,Ramat Gan,Tel Aviv,18-25,M,Bronze
+255,2022-07-12,Jerusalem,Jerusalem,50+,F,Bronze
+256,2022-07-09,Nazareth,North,36-50,F,Silver
+257,2022-02-13,Maale Adumim,Jerusalem,18-25,M,Gold
+258,2022-12-12,Petah Tikva,Center,18-25,F,Silver
+259,2022-09-06,Ashdod,South,50+,F,Silver
+260,2022-09-20,Nazareth,North,18-25,F,Bronze
+261,2022-05-26,Beer Sheva,South,50+,F,Silver
+262,2022-07-22,Ramat Gan,Tel Aviv,18-25,M,Platinum
+263,2022-04-19,Rehovot,Center,26-35,F,Bronze
+264,2022-03-03,Acre,North,18-25,F,Silver
+265,2022-03-08,Eilat,South,50+,M,Gold
+266,2022-12-09,Maale Adumim,Jerusalem,36-50,M,Silver
+267,2022-08-12,Beer Sheva,South,18-25,F,Silver
+268,2022-10-22,Givatayim,Tel Aviv,50+,F,Silver
+269,2022-02-28,Ashkelon,South,50+,M,Bronze
+270,2022-11-13,Nazareth,North,50+,F,Bronze
+271,2022-02-24,Bat Yam,Tel Aviv,26-35,F,Gold
+272,2022-09-26,Beit Shemesh,Jerusalem,18-25,F,Gold
+273,2022-04-24,Acre,North,36-50,M,Gold
+274,2022-09-29,Tel Aviv,Tel Aviv,26-35,F,Gold
+275,2022-05-01,Nazareth,North,18-25,M,Silver
+276,2022-03-30,Nazareth,North,26-35,M,Silver
+277,2022-08-26,Holon,Center,50+,F,Silver
+278,2022-08-14,Nazareth,North,18-25,F,Silver
+279,2022-05-21,Ashkelon,South,18-25,F,Silver
+280,2022-06-08,Jerusalem,Jerusalem,50+,F,Silver
+281,2022-07-08,Tel Aviv,Tel Aviv,36-50,M,Gold
+282,2022-08-25,Bat Yam,Tel Aviv,18-25,F,Bronze
+283,2022-04-07,Maale Adumim,Jerusalem,36-50,F,Bronze
+284,2022-02-01,Jerusalem,Jerusalem,50+,M,Bronze
+285,2022-09-16,Haifa,North,26-35,M,Silver
+286,2022-08-13,Holon,Center,26-35,F,Bronze
+287,2022-07-18,Acre,North,50+,F,Bronze
+288,2022-11-20,Jerusalem,Jerusalem,36-50,M,Silver
+289,2022-10-13,Haifa,North,50+,F,Bronze
+290,2022-06-20,Nazareth,North,18-25,M,Silver
+291,2022-12-02,Acre,North,50+,M,Bronze
+292,2022-02-13,Maale Adumim,Jerusalem,36-50,F,Bronze
+293,2022-12-10,Nazareth,North,18-25,F,Gold
+294,2022-01-10,Beit Shemesh,Jerusalem,36-50,F,Bronze
+295,2022-06-24,Rishon LeZion,Center,50+,M,Bronze
+296,2022-03-21,Rishon LeZion,Center,18-25,F,Silver
+297,2022-12-05,Tel Aviv,Tel Aviv,36-50,M,Silver
+298,2022-03-20,Beit Shemesh,Jerusalem,26-35,M,Bronze
+299,2022-08-13,Jerusalem,Jerusalem,18-25,F,Silver
+300,2022-08-16,Nazareth,North,36-50,F,Bronze
+301,2022-06-08,Rishon LeZion,Center,50+,M,Bronze
+302,2022-08-25,Tiberias,North,36-50,F,Silver
+303,2022-08-03,Maale Adumim,Jerusalem,26-35,M,Silver
+304,2022-05-09,Jerusalem,Jerusalem,18-25,F,Silver
+305,2022-12-31,Haifa,North,18-25,F,Silver
+306,2022-05-20,Ramat Gan,Tel Aviv,50+,M,Platinum
+307,2022-04-24,Beer Sheva,South,50+,F,Silver
+308,2022-01-28,Bat Yam,Tel Aviv,50+,F,Bronze
+309,2022-02-11,Holon,Center,36-50,M,Silver
+310,2022-02-20,Givatayim,Tel Aviv,36-50,M,Bronze
+311,2022-05-27,Petah Tikva,Center,50+,M,Bronze
+312,2022-11-12,Ashdod,South,18-25,M,Bronze
+313,2022-04-21,Givatayim,Tel Aviv,26-35,F,Bronze
+314,2022-05-02,Givatayim,Tel Aviv,36-50,M,Platinum
+315,2022-08-03,Ramat Gan,Tel Aviv,50+,M,Gold
+316,2022-11-02,Bat Yam,Tel Aviv,18-25,M,Silver
+317,2022-08-08,Rehovot,Center,18-25,F,Bronze
+318,2022-04-06,Holon,Center,18-25,F,Bronze
+319,2022-07-19,Tel Aviv,Tel Aviv,50+,M,Bronze
+320,2022-05-10,Ashkelon,South,18-25,F,Bronze
+321,2022-05-04,Givatayim,Tel Aviv,18-25,F,Silver
+322,2022-06-30,Petah Tikva,Center,36-50,M,Silver
+323,2022-11-20,Ashdod,South,26-35,M,Silver
+324,2022-01-19,Bat Yam,Tel Aviv,36-50,M,Bronze
+325,2022-01-22,Ramat Gan,Tel Aviv,36-50,F,Platinum
+326,2022-10-06,Beit Shemesh,Jerusalem,50+,F,Silver
+327,2022-05-27,Ramat Gan,Tel Aviv,36-50,M,Silver
+328,2022-03-05,Acre,North,36-50,F,Silver
+329,2022-07-17,Ashdod,South,36-50,M,Bronze
+330,2022-07-08,Ashdod,South,36-50,M,Bronze
+331,2022-08-09,Beer Sheva,South,26-35,F,Bronze
+332,2022-02-10,Haifa,North,36-50,F,Silver
+333,2022-11-05,Tiberias,North,50+,M,Bronze
+334,2022-08-17,Ashkelon,South,18-25,F,Bronze
+335,2022-05-21,Beit Shemesh,Jerusalem,18-25,M,Bronze
+336,2022-09-20,Ashkelon,South,26-35,M,Bronze
+337,2022-01-18,Holon,Center,26-35,M,Gold
+338,2022-07-05,Rehovot,Center,50+,M,Silver
+339,2022-12-14,Jerusalem,Jerusalem,50+,F,Bronze
+340,2022-02-09,Tiberias,North,26-35,F,Bronze
+341,2022-11-29,Ashkelon,South,36-50,M,Bronze
+342,2022-04-06,Tel Aviv,Tel Aviv,50+,F,Bronze
+343,2022-05-15,Jerusalem,Jerusalem,36-50,F,Bronze
+344,2022-12-22,Rehovot,Center,50+,M,Bronze
+345,2022-02-07,Ramat Gan,Tel Aviv,50+,M,Bronze
+346,2022-12-16,Beer Sheva,South,36-50,F,Silver
+347,2022-06-03,Givatayim,Tel Aviv,26-35,M,Silver
+348,2022-03-04,Nazareth,North,26-35,M,Bronze
+349,2022-01-14,Holon,Center,36-50,F,Bronze
+350,2022-11-10,Eilat,South,18-25,M,Silver
+351,2022-09-03,Tiberias,North,50+,F,Silver
+352,2022-03-06,Jerusalem,Jerusalem,36-50,M,Gold
+353,2022-12-15,Ashdod,South,36-50,M,Silver
+354,2022-10-28,Maale Adumim,Jerusalem,26-35,M,Bronze
+355,2022-03-05,Beer Sheva,South,26-35,F,Bronze
+356,2022-06-15,Rishon LeZion,Center,26-35,F,Silver
+357,2022-02-10,Beit Shemesh,Jerusalem,36-50,M,Bronze
+358,2022-03-06,Beit Shemesh,Jerusalem,36-50,M,Silver
+359,2022-03-28,Maale Adumim,Jerusalem,26-35,M,Gold
+360,2022-11-06,Maale Adumim,Jerusalem,36-50,M,Silver
+361,2022-01-24,Tel Aviv,Tel Aviv,36-50,M,Bronze
+362,2022-11-13,Beit Shemesh,Jerusalem,18-25,F,Silver
+363,2022-11-25,Beit Shemesh,Jerusalem,36-50,F,Bronze
+364,2022-06-02,Holon,Center,50+,M,Silver
+365,2022-08-14,Ramat Gan,Tel Aviv,50+,F,Gold
+366,2022-06-24,Eilat,South,26-35,F,Bronze
+367,2022-07-24,Acre,North,26-35,F,Platinum
+368,2022-02-24,Maale Adumim,Jerusalem,36-50,M,Gold
+369,2022-05-17,Beer Sheva,South,50+,M,Bronze
+370,2022-01-26,Petah Tikva,Center,36-50,F,Bronze
+371,2022-05-08,Beit Shemesh,Jerusalem,26-35,F,Bronze
+372,2022-06-10,Maale Adumim,Jerusalem,26-35,M,Bronze
+373,2022-09-13,Ashdod,South,36-50,F,Bronze
+374,2022-07-21,Tel Aviv,Tel Aviv,50+,M,Silver
+375,2022-01-25,Rehovot,Center,18-25,F,Bronze
+376,2022-05-27,Ashdod,South,18-25,M,Bronze
+377,2022-05-16,Eilat,South,36-50,F,Gold
+378,2022-07-25,Haifa,North,18-25,M,Bronze
+379,2022-02-07,Acre,North,50+,F,Gold
+380,2022-11-16,Beit Shemesh,Jerusalem,18-25,M,Bronze
+381,2022-07-11,Bat Yam,Tel Aviv,36-50,F,Bronze
+382,2022-11-05,Rishon LeZion,Center,50+,M,Silver
+383,2022-03-12,Tel Aviv,Tel Aviv,36-50,F,Silver
+384,2022-03-18,Beit Shemesh,Jerusalem,26-35,F,Gold
+385,2022-03-25,Beit Shemesh,Jerusalem,50+,F,Silver
+386,2022-09-17,Beit Shemesh,Jerusalem,50+,F,Gold
+387,2022-07-08,Beer Sheva,South,36-50,M,Bronze
+388,2022-12-19,Ashkelon,South,18-25,F,Bronze
+389,2022-01-27,Nazareth,North,50+,M,Silver
+390,2022-11-14,Maale Adumim,Jerusalem,50+,M,Gold
+391,2022-10-21,Petah Tikva,Center,18-25,M,Platinum
+392,2022-06-10,Bat Yam,Tel Aviv,50+,M,Bronze
+393,2022-07-30,Eilat,South,50+,M,Bronze
+394,2022-10-15,Rishon LeZion,Center,36-50,F,Silver
+395,2022-06-10,Beit Shemesh,Jerusalem,26-35,F,Bronze
+396,2022-10-07,Beit Shemesh,Jerusalem,36-50,F,Gold
+397,2022-04-09,Beit Shemesh,Jerusalem,26-35,F,Gold
+398,2022-04-26,Beit Shemesh,Jerusalem,36-50,F,Bronze
+399,2022-06-12,Holon,Center,50+,F,Silver
+400,2022-05-21,Maale Adumim,Jerusalem,36-50,M,Silver
+401,2022-10-06,Maale Adumim,Jerusalem,50+,F,Bronze
+402,2022-05-29,Nazareth,North,18-25,F,Gold
+403,2022-08-15,Givatayim,Tel Aviv,36-50,F,Silver
+404,2022-10-03,Rishon LeZion,Center,36-50,F,Gold
+405,2022-11-12,Petah Tikva,Center,26-35,M,Bronze
+406,2022-11-23,Ramat Gan,Tel Aviv,26-35,M,Gold
+407,2022-06-19,Bat Yam,Tel Aviv,50+,M,Bronze
+408,2022-10-09,Petah Tikva,Center,26-35,F,Bronze
+409,2022-11-30,Ashdod,South,26-35,F,Gold
+410,2022-11-27,Acre,North,18-25,M,Bronze
+411,2022-10-01,Jerusalem,Jerusalem,18-25,M,Bronze
+412,2022-01-19,Eilat,South,50+,F,Platinum
+413,2022-01-20,Rehovot,Center,18-25,F,Platinum
+414,2022-02-24,Maale Adumim,Jerusalem,36-50,F,Silver
+415,2022-03-10,Ashdod,South,50+,F,Silver
+416,2022-06-19,Petah Tikva,Center,26-35,F,Bronze
+417,2022-01-08,Nazareth,North,36-50,F,Bronze
+418,2022-04-09,Maale Adumim,Jerusalem,26-35,F,Bronze
+419,2022-02-14,Ashkelon,South,50+,M,Silver
+420,2022-09-02,Rishon LeZion,Center,36-50,M,Silver
+421,2022-07-16,Givatayim,Tel Aviv,26-35,F,Silver
+422,2022-06-04,Acre,North,18-25,F,Silver
+423,2022-02-01,Nazareth,North,18-25,F,Bronze
+424,2022-07-27,Nazareth,North,36-50,M,Bronze
+425,2022-11-11,Acre,North,26-35,M,Bronze
+426,2022-03-20,Holon,Center,50+,F,Silver
+427,2022-10-03,Ashdod,South,26-35,M,Bronze
+428,2022-09-27,Jerusalem,Jerusalem,50+,F,Gold
+429,2022-02-01,Tel Aviv,Tel Aviv,26-35,M,Bronze
+430,2022-09-24,Rehovot,Center,50+,M,Bronze
+431,2022-02-16,Holon,Center,50+,M,Bronze
+432,2022-09-20,Eilat,South,50+,F,Silver
+433,2022-10-14,Jerusalem,Jerusalem,50+,F,Silver
+434,2022-05-11,Bat Yam,Tel Aviv,18-25,M,Bronze
+435,2022-01-24,Jerusalem,Jerusalem,50+,F,Bronze
+436,2022-02-05,Tel Aviv,Tel Aviv,50+,M,Silver
+437,2022-04-03,Tiberias,North,26-35,F,Bronze
+438,2022-08-18,Tiberias,North,50+,F,Gold
+439,2022-12-01,Ramat Gan,Tel Aviv,36-50,M,Silver
+440,2022-09-28,Holon,Center,26-35,M,Bronze
+441,2022-06-02,Tel Aviv,Tel Aviv,50+,F,Bronze
+442,2022-04-28,Beit Shemesh,Jerusalem,26-35,F,Platinum
+443,2022-05-22,Nazareth,North,26-35,M,Bronze
+444,2022-11-11,Bat Yam,Tel Aviv,18-25,M,Bronze
+445,2022-02-21,Petah Tikva,Center,18-25,F,Gold
+446,2022-12-27,Maale Adumim,Jerusalem,18-25,M,Gold
+447,2022-08-13,Bat Yam,Tel Aviv,26-35,M,Platinum
+448,2022-09-15,Ramat Gan,Tel Aviv,36-50,M,Silver
+449,2022-10-23,Beit Shemesh,Jerusalem,36-50,M,Bronze
+450,2022-12-05,Nazareth,North,26-35,F,Bronze
+451,2022-02-01,Acre,North,26-35,F,Silver
+452,2022-01-25,Beit Shemesh,Jerusalem,36-50,F,Silver
+453,2022-12-23,Beit Shemesh,Jerusalem,50+,F,Bronze
+454,2022-07-12,Rehovot,Center,26-35,F,Gold
+455,2022-06-03,Rishon LeZion,Center,26-35,F,Bronze
+456,2022-08-02,Bat Yam,Tel Aviv,26-35,F,Bronze
+457,2022-04-15,Rehovot,Center,36-50,M,Bronze
+458,2022-02-17,Ashkelon,South,26-35,M,Bronze
+459,2022-12-11,Tiberias,North,18-25,M,Bronze
+460,2022-09-03,Rishon LeZion,Center,26-35,F,Bronze
+461,2022-04-19,Haifa,North,26-35,M,Bronze
+462,2022-12-23,Eilat,South,26-35,F,Silver
+463,2022-05-25,Rehovot,Center,50+,F,Silver
+464,2022-07-03,Maale Adumim,Jerusalem,36-50,F,Silver
+465,2022-08-27,Tiberias,North,18-25,F,Platinum
+466,2022-07-09,Nazareth,North,36-50,F,Bronze
+467,2022-03-16,Ramat Gan,Tel Aviv,18-25,F,Bronze
+468,2022-10-24,Maale Adumim,Jerusalem,50+,F,Gold
+469,2022-06-18,Rishon LeZion,Center,26-35,F,Bronze
+470,2022-09-13,Jerusalem,Jerusalem,36-50,F,Platinum
+471,2022-08-24,Ashdod,South,26-35,F,Bronze
+472,2022-10-07,Rishon LeZion,Center,50+,M,Platinum
+473,2022-01-31,Maale Adumim,Jerusalem,18-25,M,Bronze
+474,2022-07-31,Tel Aviv,Tel Aviv,26-35,M,Gold
+475,2022-01-05,Ramat Gan,Tel Aviv,26-35,F,Silver
+476,2022-11-13,Haifa,North,50+,F,Platinum
+477,2022-09-30,Tel Aviv,Tel Aviv,50+,M,Bronze
+478,2022-10-02,Givatayim,Tel Aviv,36-50,M,Silver
+479,2022-12-12,Maale Adumim,Jerusalem,50+,M,Platinum
+480,2022-09-26,Tel Aviv,Tel Aviv,26-35,M,Silver
+481,2022-07-01,Rehovot,Center,36-50,F,Silver
+482,2022-07-27,Givatayim,Tel Aviv,50+,M,Silver
+483,2022-12-17,Rehovot,Center,18-25,M,Bronze
+484,2022-07-14,Bat Yam,Tel Aviv,50+,F,Silver
+485,2022-12-26,Tel Aviv,Tel Aviv,26-35,M,Silver
+486,2022-11-27,Ashdod,South,36-50,M,Gold
+487,2022-04-28,Jerusalem,Jerusalem,26-35,F,Bronze
+488,2022-02-08,Haifa,North,36-50,M,Bronze
+489,2022-01-09,Rehovot,Center,26-35,M,Platinum
+490,2022-06-03,Beer Sheva,South,26-35,M,Gold
+491,2022-12-13,Beit Shemesh,Jerusalem,36-50,F,Bronze
+492,2022-09-14,Petah Tikva,Center,36-50,M,Silver
+493,2022-04-29,Bat Yam,Tel Aviv,18-25,F,Bronze
+494,2022-11-01,Maale Adumim,Jerusalem,50+,F,Bronze
+495,2022-08-19,Givatayim,Tel Aviv,50+,M,Bronze
+496,2022-08-10,Tiberias,North,26-35,F,Bronze
+497,2022-05-07,Givatayim,Tel Aviv,18-25,M,Silver
+498,2022-07-14,Nazareth,North,26-35,F,Bronze
+499,2022-02-24,Acre,North,18-25,M,Platinum
+500,2022-07-04,Tiberias,North,36-50,M,Platinum
+501,2022-04-06,Petah Tikva,Center,50+,F,Silver
+502,2022-09-20,Maale Adumim,Jerusalem,50+,M,Silver
+503,2022-07-01,Tel Aviv,Tel Aviv,18-25,F,Bronze
+504,2022-05-30,Beer Sheva,South,50+,F,Gold
+505,2022-10-20,Ramat Gan,Tel Aviv,26-35,F,Silver
+506,2022-05-18,Rishon LeZion,Center,36-50,F,Bronze
+507,2022-02-02,Eilat,South,26-35,F,Gold
+508,2022-06-03,Tiberias,North,50+,M,Gold
+509,2022-05-07,Acre,North,50+,M,Gold
+510,2022-03-11,Beer Sheva,South,36-50,M,Silver
+511,2022-11-14,Ashkelon,South,50+,F,Silver
+512,2022-08-09,Ashkelon,South,26-35,F,Bronze
+513,2022-09-03,Nazareth,North,36-50,M,Gold
+514,2022-05-30,Ashkelon,South,50+,M,Gold
+515,2022-05-24,Tiberias,North,50+,F,Bronze
+516,2022-10-31,Ramat Gan,Tel Aviv,26-35,M,Bronze
+517,2022-08-13,Eilat,South,36-50,M,Bronze
+518,2022-03-13,Ashdod,South,36-50,M,Gold
+519,2022-08-05,Nazareth,North,50+,M,Platinum
+520,2022-10-26,Ashdod,South,50+,F,Bronze
+521,2022-07-04,Jerusalem,Jerusalem,18-25,M,Silver
+522,2022-03-27,Rehovot,Center,18-25,F,Bronze
+523,2022-02-24,Tiberias,North,18-25,M,Platinum
+524,2022-09-19,Nazareth,North,26-35,F,Gold
+525,2022-08-26,Tiberias,North,26-35,F,Gold
+526,2022-02-23,Bat Yam,Tel Aviv,36-50,F,Bronze
+527,2022-03-14,Tel Aviv,Tel Aviv,36-50,F,Bronze
+528,2022-04-16,Tiberias,North,50+,F,Bronze
+529,2022-08-13,Beer Sheva,South,50+,F,Bronze
+530,2022-01-23,Givatayim,Tel Aviv,18-25,M,Gold
+531,2022-12-13,Haifa,North,26-35,M,Gold
+532,2022-10-10,Jerusalem,Jerusalem,26-35,F,Platinum
+533,2022-08-25,Beit Shemesh,Jerusalem,26-35,F,Platinum
+534,2022-11-24,Rishon LeZion,Center,50+,F,Silver
+535,2022-08-19,Ramat Gan,Tel Aviv,50+,F,Silver
+536,2022-04-16,Ramat Gan,Tel Aviv,36-50,M,Gold
+537,2022-10-02,Jerusalem,Jerusalem,26-35,F,Gold
+538,2022-08-23,Nazareth,North,18-25,F,Bronze
+539,2022-11-02,Ashkelon,South,50+,F,Bronze
+540,2022-06-28,Jerusalem,Jerusalem,36-50,F,Bronze
+541,2022-12-11,Jerusalem,Jerusalem,36-50,M,Platinum
+542,2022-03-02,Rehovot,Center,26-35,F,Silver
+543,2022-07-11,Ramat Gan,Tel Aviv,26-35,F,Bronze
+544,2022-10-22,Eilat,South,50+,F,Silver
+545,2022-11-22,Holon,Center,26-35,M,Silver
+546,2022-03-13,Ashkelon,South,26-35,F,Bronze
+547,2022-07-03,Beer Sheva,South,18-25,F,Bronze
+548,2022-07-16,Rishon LeZion,Center,50+,F,Silver
+549,2022-12-30,Ashdod,South,50+,F,Silver
+550,2022-10-17,Petah Tikva,Center,18-25,M,Silver
+551,2022-05-21,Haifa,North,26-35,F,Silver
+552,2022-10-17,Holon,Center,50+,M,Gold
+553,2022-05-18,Jerusalem,Jerusalem,36-50,M,Silver
+554,2022-08-06,Eilat,South,18-25,M,Silver
+555,2022-08-19,Haifa,North,36-50,F,Gold
+556,2022-03-02,Bat Yam,Tel Aviv,26-35,M,Bronze
+557,2022-06-29,Maale Adumim,Jerusalem,50+,M,Bronze
+558,2022-04-16,Jerusalem,Jerusalem,26-35,M,Bronze
+559,2022-09-30,Beit Shemesh,Jerusalem,36-50,M,Silver
+560,2022-05-29,Acre,North,36-50,M,Silver
+561,2022-01-31,Holon,Center,36-50,M,Silver
+562,2022-03-16,Rishon LeZion,Center,36-50,M,Bronze
+563,2022-03-14,Ashdod,South,36-50,F,Bronze
+564,2022-02-08,Ashdod,South,18-25,F,Bronze
+565,2022-05-23,Maale Adumim,Jerusalem,36-50,F,Bronze
+566,2022-10-25,Ashkelon,South,18-25,M,Silver
+567,2022-02-02,Ashkelon,South,50+,M,Bronze
+568,2022-09-11,Eilat,South,36-50,F,Bronze
+569,2022-10-08,Acre,North,26-35,F,Gold
+570,2022-01-24,Haifa,North,18-25,F,Bronze
+571,2022-03-22,Tel Aviv,Tel Aviv,50+,F,Silver
+572,2022-04-14,Bat Yam,Tel Aviv,26-35,F,Silver
+573,2022-02-17,Rehovot,Center,36-50,F,Bronze
+574,2022-12-07,Givatayim,Tel Aviv,26-35,M,Silver
+575,2022-12-25,Ashkelon,South,26-35,F,Gold
+576,2022-01-01,Tel Aviv,Tel Aviv,26-35,F,Gold
+577,2022-10-31,Ramat Gan,Tel Aviv,26-35,F,Bronze
+578,2022-12-23,Tel Aviv,Tel Aviv,36-50,M,Gold
+579,2022-09-02,Eilat,South,18-25,M,Bronze
+580,2022-02-22,Beer Sheva,South,18-25,F,Bronze
+581,2022-03-12,Acre,North,50+,M,Bronze
+582,2022-09-29,Petah Tikva,Center,18-25,M,Platinum
+583,2022-04-20,Ashkelon,South,26-35,F,Bronze
+584,2022-08-15,Maale Adumim,Jerusalem,26-35,M,Bronze
+585,2022-03-05,Ramat Gan,Tel Aviv,50+,F,Silver
+586,2022-03-13,Ashkelon,South,26-35,F,Bronze
+587,2022-10-11,Ramat Gan,Tel Aviv,36-50,M,Bronze
+588,2022-09-23,Nazareth,North,26-35,F,Bronze
+589,2022-05-03,Haifa,North,50+,F,Bronze
+590,2022-09-13,Ramat Gan,Tel Aviv,18-25,M,Bronze
+591,2022-03-09,Acre,North,50+,F,Bronze
+592,2022-08-30,Nazareth,North,18-25,M,Silver
+593,2022-01-08,Jerusalem,Jerusalem,36-50,M,Bronze
+594,2022-07-23,Tel Aviv,Tel Aviv,36-50,F,Bronze
+595,2022-02-12,Ashdod,South,26-35,F,Gold
+596,2022-02-10,Givatayim,Tel Aviv,26-35,M,Bronze
+597,2022-07-20,Beit Shemesh,Jerusalem,18-25,F,Silver
+598,2022-01-30,Eilat,South,26-35,M,Bronze
+599,2022-08-21,Beer Sheva,South,18-25,F,Bronze
+600,2022-01-07,Petah Tikva,Center,26-35,M,Bronze
+601,2022-06-27,Holon,Center,36-50,M,Bronze
+602,2022-05-18,Nazareth,North,18-25,M,Bronze
+603,2022-05-20,Tiberias,North,18-25,F,Bronze
+604,2022-02-09,Maale Adumim,Jerusalem,50+,F,Bronze
+605,2022-01-29,Beit Shemesh,Jerusalem,50+,M,Bronze
+606,2022-05-11,Nazareth,North,18-25,M,Bronze
+607,2022-01-23,Petah Tikva,Center,18-25,M,Bronze
+608,2022-07-06,Bat Yam,Tel Aviv,50+,M,Bronze
+609,2022-10-11,Petah Tikva,Center,50+,M,Silver
+610,2022-08-02,Nazareth,North,36-50,F,Silver
+611,2022-03-03,Givatayim,Tel Aviv,18-25,M,Bronze
+612,2022-07-25,Petah Tikva,Center,18-25,F,Silver
+613,2022-06-17,Acre,North,18-25,F,Silver
+614,2022-04-13,Givatayim,Tel Aviv,36-50,F,Bronze
+615,2022-08-26,Jerusalem,Jerusalem,36-50,F,Gold
+616,2022-03-19,Rishon LeZion,Center,18-25,F,Gold
+617,2022-10-05,Ramat Gan,Tel Aviv,36-50,M,Bronze
+618,2022-12-03,Haifa,North,50+,F,Bronze
+619,2022-09-29,Ramat Gan,Tel Aviv,26-35,F,Gold
+620,2022-03-14,Beer Sheva,South,36-50,M,Silver
+621,2022-09-24,Ramat Gan,Tel Aviv,50+,F,Bronze
+622,2022-10-25,Beer Sheva,South,18-25,M,Bronze
+623,2022-10-31,Beer Sheva,South,18-25,F,Bronze
+624,2022-05-30,Rishon LeZion,Center,36-50,F,Bronze
+625,2022-06-12,Ashkelon,South,50+,F,Silver
+626,2022-04-14,Petah Tikva,Center,26-35,M,Bronze
+627,2022-03-26,Petah Tikva,Center,50+,F,Bronze
+628,2022-03-03,Tiberias,North,36-50,M,Silver
+629,2022-08-26,Ashkelon,South,36-50,M,Bronze
+630,2022-12-18,Ramat Gan,Tel Aviv,36-50,M,Bronze
+631,2022-03-17,Rehovot,Center,18-25,M,Silver
+632,2022-09-20,Tiberias,North,18-25,F,Gold
+633,2022-01-16,Nazareth,North,50+,F,Silver
+634,2022-10-09,Maale Adumim,Jerusalem,26-35,M,Silver
+635,2022-03-13,Beer Sheva,South,18-25,M,Bronze
+636,2022-03-08,Ramat Gan,Tel Aviv,26-35,F,Bronze
+637,2022-10-26,Haifa,North,36-50,M,Silver
+638,2022-04-12,Tel Aviv,Tel Aviv,50+,M,Bronze
+639,2022-03-04,Givatayim,Tel Aviv,18-25,F,Bronze
+640,2022-10-21,Ramat Gan,Tel Aviv,50+,F,Bronze
+641,2022-07-15,Beer Sheva,South,50+,M,Bronze
+642,2022-04-06,Nazareth,North,36-50,F,Bronze
+643,2022-01-18,Eilat,South,26-35,F,Bronze
+644,2022-10-09,Ashdod,South,50+,M,Bronze
+645,2022-07-16,Givatayim,Tel Aviv,26-35,F,Bronze
+646,2022-11-19,Rishon LeZion,Center,18-25,F,Gold
+647,2022-10-06,Tiberias,North,50+,F,Silver
+648,2022-06-14,Maale Adumim,Jerusalem,50+,F,Silver
+649,2022-06-13,Petah Tikva,Center,26-35,M,Silver
+650,2022-08-30,Haifa,North,36-50,M,Bronze
+651,2022-05-07,Petah Tikva,Center,26-35,F,Bronze
+652,2022-01-29,Maale Adumim,Jerusalem,26-35,F,Silver
+653,2022-04-01,Nazareth,North,26-35,F,Silver
+654,2022-12-27,Haifa,North,36-50,M,Silver
+655,2022-09-10,Jerusalem,Jerusalem,36-50,M,Bronze
+656,2022-02-16,Beer Sheva,South,18-25,M,Bronze
+657,2022-01-11,Jerusalem,Jerusalem,50+,M,Bronze
+658,2022-03-08,Nazareth,North,36-50,M,Bronze
+659,2022-01-12,Haifa,North,26-35,M,Silver
+660,2022-02-07,Givatayim,Tel Aviv,36-50,F,Silver
+661,2022-06-22,Jerusalem,Jerusalem,36-50,F,Bronze
+662,2022-08-12,Rishon LeZion,Center,50+,F,Platinum
+663,2022-04-25,Rehovot,Center,26-35,F,Silver
+664,2022-03-07,Acre,North,26-35,M,Bronze
+665,2022-10-18,Beit Shemesh,Jerusalem,18-25,M,Bronze
+666,2022-11-10,Beit Shemesh,Jerusalem,26-35,M,Bronze
+667,2022-06-19,Eilat,South,18-25,M,Bronze
+668,2022-03-27,Acre,North,18-25,F,Bronze
+669,2022-05-16,Beer Sheva,South,26-35,M,Bronze
+670,2022-05-12,Givatayim,Tel Aviv,18-25,M,Bronze
+671,2022-08-13,Bat Yam,Tel Aviv,50+,M,Bronze
+672,2022-07-13,Ashdod,South,36-50,F,Gold
+673,2022-10-23,Bat Yam,Tel Aviv,26-35,M,Bronze
+674,2022-01-18,Beer Sheva,South,36-50,M,Silver
+675,2022-02-23,Acre,North,18-25,F,Bronze
+676,2022-03-24,Holon,Center,18-25,M,Platinum
+677,2022-12-27,Tiberias,North,18-25,F,Bronze
+678,2022-03-22,Holon,Center,18-25,M,Bronze
+679,2022-04-08,Nazareth,North,50+,F,Platinum
+680,2022-05-02,Acre,North,18-25,M,Gold
+681,2022-03-20,Ashdod,South,18-25,F,Gold
+682,2022-02-14,Bat Yam,Tel Aviv,36-50,F,Bronze
+683,2022-01-14,Petah Tikva,Center,26-35,M,Bronze
+684,2022-08-31,Haifa,North,18-25,F,Silver
+685,2022-09-08,Ashdod,South,36-50,M,Gold
+686,2022-04-05,Beit Shemesh,Jerusalem,36-50,F,Silver
+687,2022-08-17,Nazareth,North,18-25,F,Silver
+688,2022-05-15,Ashdod,South,26-35,F,Bronze
+689,2022-03-19,Jerusalem,Jerusalem,18-25,M,Silver
+690,2022-10-29,Tiberias,North,26-35,M,Bronze
+691,2022-10-02,Ashdod,South,50+,M,Bronze
+692,2022-02-10,Ashkelon,South,50+,M,Bronze
+693,2022-09-22,Maale Adumim,Jerusalem,26-35,M,Silver
+694,2022-03-27,Eilat,South,26-35,M,Bronze
+695,2022-08-05,Petah Tikva,Center,18-25,F,Bronze
+696,2022-11-01,Rishon LeZion,Center,36-50,F,Silver
+697,2022-07-18,Tel Aviv,Tel Aviv,50+,F,Bronze
+698,2022-01-07,Tiberias,North,50+,M,Silver
+699,2022-03-17,Eilat,South,18-25,M,Bronze
+700,2022-05-27,Jerusalem,Jerusalem,36-50,F,Bronze
+701,2022-12-02,Tiberias,North,50+,F,Silver
+702,2022-05-22,Ramat Gan,Tel Aviv,50+,M,Bronze
+703,2022-12-15,Maale Adumim,Jerusalem,50+,M,Bronze
+704,2022-12-20,Ashkelon,South,26-35,M,Bronze
+705,2022-07-10,Ashkelon,South,18-25,F,Bronze
+706,2022-05-24,Acre,North,50+,M,Platinum
+707,2022-06-03,Rishon LeZion,Center,50+,F,Bronze
+708,2022-11-06,Tiberias,North,18-25,M,Gold
+709,2022-07-28,Eilat,South,50+,F,Bronze
+710,2022-02-03,Ramat Gan,Tel Aviv,36-50,F,Silver
+711,2022-03-30,Petah Tikva,Center,26-35,M,Silver
+712,2022-01-17,Ramat Gan,Tel Aviv,50+,M,Silver
+713,2022-05-21,Nazareth,North,36-50,F,Bronze
+714,2022-11-22,Beit Shemesh,Jerusalem,18-25,M,Bronze
+715,2022-09-08,Rehovot,Center,50+,M,Bronze
+716,2022-06-26,Ashkelon,South,26-35,F,Gold
+717,2022-01-15,Givatayim,Tel Aviv,50+,M,Gold
+718,2022-04-24,Rishon LeZion,Center,26-35,M,Platinum
+719,2022-09-20,Tiberias,North,18-25,M,Bronze
+720,2022-11-28,Eilat,South,26-35,M,Silver
+721,2022-11-08,Rehovot,Center,36-50,F,Gold
+722,2022-06-28,Ashdod,South,50+,F,Bronze
+723,2022-06-04,Holon,Center,50+,M,Bronze
+724,2022-10-15,Givatayim,Tel Aviv,36-50,F,Silver
+725,2022-02-02,Bat Yam,Tel Aviv,36-50,F,Silver
+726,2022-05-14,Acre,North,36-50,M,Gold
+727,2022-01-30,Rishon LeZion,Center,50+,F,Bronze
+728,2022-12-02,Petah Tikva,Center,50+,F,Silver
+729,2022-07-27,Tiberias,North,50+,M,Bronze
+730,2022-10-20,Maale Adumim,Jerusalem,26-35,F,Bronze
+731,2022-12-10,Holon,Center,36-50,F,Bronze
+732,2022-05-31,Rishon LeZion,Center,18-25,F,Gold
+733,2022-10-14,Rehovot,Center,26-35,F,Silver
+734,2022-07-01,Ramat Gan,Tel Aviv,26-35,F,Silver
+735,2022-07-10,Ashkelon,South,36-50,F,Bronze
+736,2022-08-29,Beer Sheva,South,18-25,M,Gold
+737,2022-09-14,Eilat,South,18-25,F,Bronze
+738,2022-07-31,Beit Shemesh,Jerusalem,18-25,M,Gold
+739,2022-06-25,Rishon LeZion,Center,50+,F,Bronze
+740,2022-04-03,Rehovot,Center,18-25,F,Bronze
+741,2022-06-10,Nazareth,North,18-25,M,Bronze
+742,2022-04-18,Ashkelon,South,26-35,M,Bronze
+743,2022-03-08,Beer Sheva,South,50+,F,Silver
+744,2022-09-02,Ashdod,South,50+,M,Silver
+745,2022-07-11,Ramat Gan,Tel Aviv,18-25,F,Bronze
+746,2022-01-10,Jerusalem,Jerusalem,18-25,M,Gold
+747,2022-06-09,Rehovot,Center,26-35,M,Bronze
+748,2022-03-27,Ashkelon,South,18-25,M,Silver
+749,2022-08-22,Acre,North,36-50,F,Gold
+750,2022-09-08,Rehovot,Center,36-50,M,Silver
+751,2022-01-10,Holon,Center,26-35,M,Bronze
+752,2022-01-12,Rishon LeZion,Center,26-35,M,Gold
+753,2022-07-12,Haifa,North,36-50,M,Silver
+754,2022-12-05,Jerusalem,Jerusalem,18-25,M,Bronze
+755,2022-08-02,Tel Aviv,Tel Aviv,50+,F,Bronze
+756,2022-08-31,Givatayim,Tel Aviv,26-35,M,Silver
+757,2022-08-04,Givatayim,Tel Aviv,18-25,F,Silver
+758,2022-12-25,Maale Adumim,Jerusalem,26-35,F,Silver
+759,2022-05-25,Tel Aviv,Tel Aviv,18-25,M,Gold
+760,2022-11-08,Eilat,South,26-35,F,Silver
+761,2022-07-03,Jerusalem,Jerusalem,50+,F,Bronze
+762,2022-10-08,Petah Tikva,Center,50+,M,Bronze
+763,2022-05-01,Ashkelon,South,18-25,M,Bronze
+764,2022-10-21,Tel Aviv,Tel Aviv,50+,M,Silver
+765,2022-02-21,Tel Aviv,Tel Aviv,36-50,M,Bronze
+766,2022-05-16,Ashkelon,South,50+,M,Silver
+767,2022-01-21,Ramat Gan,Tel Aviv,36-50,F,Silver
+768,2022-03-01,Tiberias,North,18-25,M,Gold
+769,2022-12-06,Ramat Gan,Tel Aviv,26-35,F,Bronze
+770,2022-11-15,Tiberias,North,36-50,M,Gold
+771,2022-04-04,Acre,North,18-25,F,Bronze
+772,2022-05-20,Ashdod,South,50+,F,Gold
+773,2022-02-27,Eilat,South,26-35,M,Bronze
+774,2022-08-02,Petah Tikva,Center,50+,F,Bronze
+775,2022-07-03,Holon,Center,18-25,M,Silver
+776,2022-02-27,Ashdod,South,50+,F,Bronze
+777,2022-05-14,Tel Aviv,Tel Aviv,36-50,M,Bronze
+778,2022-10-23,Maale Adumim,Jerusalem,26-35,F,Silver
+779,2022-12-19,Maale Adumim,Jerusalem,18-25,F,Silver
+780,2022-06-27,Holon,Center,50+,M,Silver
+781,2022-01-28,Maale Adumim,Jerusalem,18-25,M,Silver
+782,2022-09-11,Beit Shemesh,Jerusalem,26-35,M,Silver
+783,2022-05-04,Ashkelon,South,36-50,F,Bronze
+784,2022-10-09,Ramat Gan,Tel Aviv,50+,F,Bronze
+785,2022-08-24,Petah Tikva,Center,50+,F,Bronze
+786,2022-08-17,Bat Yam,Tel Aviv,36-50,M,Gold
+787,2022-02-22,Beer Sheva,South,50+,F,Silver
+788,2022-02-16,Tel Aviv,Tel Aviv,36-50,M,Bronze
+789,2022-07-06,Ashkelon,South,18-25,M,Bronze
+790,2022-10-14,Ashkelon,South,50+,F,Gold
+791,2022-02-19,Beer Sheva,South,26-35,M,Bronze
+792,2022-11-21,Acre,North,36-50,F,Silver
+793,2022-03-26,Tel Aviv,Tel Aviv,50+,M,Silver
+794,2022-05-11,Beer Sheva,South,26-35,M,Silver
+795,2022-04-21,Bat Yam,Tel Aviv,50+,M,Bronze
+796,2022-08-01,Haifa,North,18-25,M,Gold
+797,2022-12-04,Ashdod,South,26-35,F,Gold
+798,2022-10-11,Tel Aviv,Tel Aviv,50+,F,Silver
+799,2022-12-21,Jerusalem,Jerusalem,26-35,M,Silver
+800,2022-12-03,Bat Yam,Tel Aviv,36-50,F,Gold
+801,2022-05-21,Eilat,South,50+,F,Silver
+802,2022-03-10,Tiberias,North,26-35,F,Bronze
+803,2022-09-20,Maale Adumim,Jerusalem,36-50,F,Silver
+804,2022-04-22,Maale Adumim,Jerusalem,26-35,M,Silver
+805,2022-05-29,Maale Adumim,Jerusalem,36-50,M,Bronze
+806,2022-12-30,Rehovot,Center,18-25,F,Silver
+807,2022-10-26,Beit Shemesh,Jerusalem,50+,F,Gold
+808,2022-09-25,Beer Sheva,South,18-25,M,Gold
+809,2022-01-28,Eilat,South,18-25,M,Bronze
+810,2022-05-27,Nazareth,North,36-50,M,Bronze
+811,2022-04-15,Givatayim,Tel Aviv,18-25,F,Platinum
+812,2022-11-12,Beer Sheva,South,26-35,F,Gold
+813,2022-12-21,Rehovot,Center,18-25,F,Bronze
+814,2022-12-17,Ashdod,South,36-50,M,Gold
+815,2022-04-14,Givatayim,Tel Aviv,50+,M,Gold
+816,2022-04-10,Nazareth,North,36-50,F,Silver
+817,2022-04-06,Petah Tikva,Center,26-35,M,Silver
+818,2022-08-08,Beer Sheva,South,36-50,F,Bronze
+819,2022-10-27,Rishon LeZion,Center,36-50,M,Bronze
+820,2022-12-30,Tiberias,North,26-35,M,Bronze
+821,2022-11-02,Rehovot,Center,18-25,F,Gold
+822,2022-02-07,Ashkelon,South,36-50,M,Bronze
+823,2022-09-16,Petah Tikva,Center,26-35,F,Bronze
+824,2022-07-26,Maale Adumim,Jerusalem,18-25,F,Bronze
+825,2022-12-06,Rishon LeZion,Center,36-50,F,Silver
+826,2022-04-22,Acre,North,50+,M,Gold
+827,2022-08-17,Givatayim,Tel Aviv,26-35,M,Bronze
+828,2022-07-15,Givatayim,Tel Aviv,18-25,F,Bronze
+829,2022-01-13,Acre,North,36-50,F,Silver
+830,2022-06-01,Beer Sheva,South,26-35,F,Bronze
+831,2022-02-19,Jerusalem,Jerusalem,26-35,M,Bronze
+832,2022-12-10,Ramat Gan,Tel Aviv,26-35,F,Bronze
+833,2022-10-03,Ramat Gan,Tel Aviv,50+,M,Bronze
+834,2022-08-24,Petah Tikva,Center,36-50,M,Bronze
+835,2022-01-28,Tel Aviv,Tel Aviv,26-35,F,Bronze
+836,2022-10-22,Jerusalem,Jerusalem,26-35,F,Bronze
+837,2022-08-19,Ashdod,South,50+,F,Gold
+838,2022-07-19,Haifa,North,18-25,M,Bronze
+839,2022-10-27,Jerusalem,Jerusalem,18-25,M,Silver
+840,2022-05-29,Haifa,North,36-50,M,Silver
+841,2022-07-15,Tiberias,North,50+,M,Bronze
+842,2022-10-01,Eilat,South,26-35,M,Silver
+843,2022-11-21,Ashkelon,South,26-35,F,Bronze
+844,2022-10-11,Haifa,North,26-35,M,Platinum
+845,2022-10-21,Tel Aviv,Tel Aviv,50+,M,Bronze
+846,2022-06-26,Nazareth,North,26-35,F,Bronze
+847,2022-03-24,Jerusalem,Jerusalem,26-35,M,Bronze
+848,2022-04-10,Beit Shemesh,Jerusalem,18-25,M,Platinum
+849,2022-10-09,Jerusalem,Jerusalem,50+,M,Silver
+850,2022-05-09,Haifa,North,18-25,M,Silver
+851,2022-06-19,Beit Shemesh,Jerusalem,36-50,M,Bronze
+852,2022-05-26,Petah Tikva,Center,18-25,M,Silver
+853,2022-08-19,Tiberias,North,36-50,F,Bronze
+854,2022-10-17,Jerusalem,Jerusalem,36-50,F,Gold
+855,2022-01-03,Eilat,South,36-50,M,Bronze
+856,2022-05-22,Holon,Center,36-50,M,Bronze
+857,2022-08-25,Tiberias,North,50+,F,Bronze
+858,2022-10-10,Tiberias,North,18-25,M,Bronze
+859,2022-05-24,Jerusalem,Jerusalem,26-35,M,Silver
+860,2022-02-08,Haifa,North,18-25,M,Bronze
+861,2022-07-27,Maale Adumim,Jerusalem,26-35,M,Silver
+862,2022-10-06,Beit Shemesh,Jerusalem,50+,M,Bronze
+863,2022-04-25,Tiberias,North,36-50,M,Silver
+864,2022-07-23,Beer Sheva,South,36-50,M,Bronze
+865,2022-09-21,Rishon LeZion,Center,26-35,F,Bronze
+866,2022-10-17,Rishon LeZion,Center,26-35,F,Silver
+867,2022-04-23,Haifa,North,50+,M,Bronze
+868,2022-07-09,Givatayim,Tel Aviv,26-35,M,Bronze
+869,2022-07-18,Rehovot,Center,50+,F,Gold
+870,2022-11-29,Tel Aviv,Tel Aviv,36-50,M,Gold
+871,2022-05-21,Maale Adumim,Jerusalem,36-50,M,Bronze
+872,2022-07-07,Ashdod,South,18-25,F,Bronze
+873,2022-09-22,Eilat,South,50+,F,Silver
+874,2022-09-04,Tiberias,North,18-25,M,Bronze
+875,2022-04-28,Eilat,South,18-25,F,Bronze
+876,2022-04-06,Rishon LeZion,Center,26-35,F,Bronze
+877,2022-03-02,Maale Adumim,Jerusalem,26-35,F,Silver
+878,2022-09-04,Haifa,North,50+,F,Silver
+879,2022-11-28,Rishon LeZion,Center,50+,M,Bronze
+880,2022-03-07,Petah Tikva,Center,26-35,M,Bronze
+881,2022-10-21,Jerusalem,Jerusalem,26-35,M,Bronze
+882,2022-04-03,Rehovot,Center,50+,M,Silver
+883,2022-04-21,Haifa,North,50+,F,Bronze
+884,2022-04-23,Eilat,South,50+,M,Bronze
+885,2022-11-16,Jerusalem,Jerusalem,36-50,M,Silver
+886,2022-11-02,Tiberias,North,18-25,M,Bronze
+887,2022-03-09,Ashdod,South,18-25,M,Silver
+888,2022-03-18,Holon,Center,18-25,M,Bronze
+889,2022-09-30,Beer Sheva,South,18-25,M,Bronze
+890,2022-11-05,Eilat,South,18-25,F,Bronze
+891,2022-07-09,Beit Shemesh,Jerusalem,18-25,F,Silver
+892,2022-07-15,Holon,Center,36-50,M,Gold
+893,2022-05-11,Eilat,South,50+,M,Gold
+894,2022-11-03,Givatayim,Tel Aviv,50+,F,Bronze
+895,2022-12-30,Petah Tikva,Center,18-25,M,Silver
+896,2022-07-12,Jerusalem,Jerusalem,26-35,F,Bronze
+897,2022-02-24,Ashkelon,South,26-35,F,Bronze
+898,2022-05-14,Beit Shemesh,Jerusalem,50+,F,Gold
+899,2022-12-15,Beit Shemesh,Jerusalem,50+,M,Bronze
+900,2022-04-02,Ashdod,South,36-50,F,Bronze
+901,2022-10-23,Acre,North,36-50,F,Bronze
+902,2022-04-28,Petah Tikva,Center,50+,M,Bronze
+903,2022-09-18,Ramat Gan,Tel Aviv,50+,F,Bronze
+904,2022-12-23,Maale Adumim,Jerusalem,18-25,M,Silver
+905,2022-02-16,Beer Sheva,South,26-35,F,Bronze
+906,2022-02-15,Beit Shemesh,Jerusalem,18-25,F,Gold
+907,2022-02-10,Rehovot,Center,18-25,F,Gold
+908,2022-12-31,Ashkelon,South,18-25,M,Bronze
+909,2022-01-06,Ashdod,South,26-35,F,Bronze
+910,2022-11-03,Petah Tikva,Center,26-35,M,Bronze
+911,2022-05-03,Givatayim,Tel Aviv,18-25,M,Silver
+912,2022-07-24,Givatayim,Tel Aviv,36-50,F,Bronze
+913,2022-09-23,Eilat,South,18-25,M,Silver
+914,2022-10-14,Givatayim,Tel Aviv,36-50,F,Bronze
+915,2022-11-07,Nazareth,North,26-35,F,Silver
+916,2022-05-14,Beer Sheva,South,26-35,F,Bronze
+917,2022-10-14,Jerusalem,Jerusalem,18-25,F,Bronze
+918,2022-09-20,Haifa,North,36-50,F,Gold
+919,2022-10-16,Ashdod,South,50+,M,Silver
+920,2022-12-15,Tiberias,North,50+,M,Bronze
+921,2022-05-13,Beer Sheva,South,18-25,F,Gold
+922,2022-06-11,Rishon LeZion,Center,50+,F,Bronze
+923,2022-01-05,Maale Adumim,Jerusalem,36-50,M,Gold
+924,2022-07-24,Haifa,North,36-50,M,Silver
+925,2022-09-01,Jerusalem,Jerusalem,36-50,F,Bronze
+926,2022-04-04,Rehovot,Center,26-35,F,Bronze
+927,2022-05-04,Rishon LeZion,Center,36-50,M,Bronze
+928,2022-05-08,Rishon LeZion,Center,36-50,M,Silver
+929,2022-02-10,Tel Aviv,Tel Aviv,50+,M,Silver
+930,2022-09-04,Jerusalem,Jerusalem,36-50,F,Bronze
+931,2022-09-09,Ashkelon,South,26-35,F,Bronze
+932,2022-10-23,Eilat,South,26-35,M,Gold
+933,2022-09-02,Beit Shemesh,Jerusalem,18-25,F,Platinum
+934,2022-08-23,Eilat,South,18-25,F,Silver
+935,2022-01-07,Haifa,North,26-35,F,Bronze
+936,2022-06-16,Jerusalem,Jerusalem,36-50,F,Bronze
+937,2022-05-02,Rehovot,Center,36-50,F,Bronze
+938,2022-07-07,Beit Shemesh,Jerusalem,26-35,F,Gold
+939,2022-08-03,Eilat,South,36-50,F,Bronze
+940,2022-08-19,Ashkelon,South,26-35,M,Silver
+941,2022-04-28,Maale Adumim,Jerusalem,18-25,F,Bronze
+942,2022-07-15,Holon,Center,26-35,M,Silver
+943,2022-01-05,Holon,Center,26-35,F,Silver
+944,2022-11-19,Eilat,South,36-50,F,Gold
+945,2022-10-15,Acre,North,18-25,F,Bronze
+946,2022-01-31,Ramat Gan,Tel Aviv,26-35,F,Bronze
+947,2022-08-19,Beer Sheva,South,36-50,F,Bronze
+948,2022-10-14,Acre,North,36-50,F,Gold
+949,2022-03-04,Bat Yam,Tel Aviv,36-50,M,Gold
+950,2022-11-29,Maale Adumim,Jerusalem,26-35,F,Silver
+951,2022-12-11,Acre,North,50+,F,Silver
+952,2022-11-11,Bat Yam,Tel Aviv,36-50,F,Silver
+953,2022-11-24,Rishon LeZion,Center,36-50,F,Bronze
+954,2022-07-27,Maale Adumim,Jerusalem,18-25,M,Gold
+955,2022-04-27,Rehovot,Center,36-50,F,Bronze
+956,2022-11-06,Acre,North,50+,F,Bronze
+957,2022-10-28,Ashkelon,South,50+,F,Silver
+958,2022-01-12,Rishon LeZion,Center,26-35,M,Bronze
+959,2022-04-18,Haifa,North,26-35,F,Bronze
+960,2022-02-02,Tel Aviv,Tel Aviv,50+,M,Silver
+961,2022-09-26,Bat Yam,Tel Aviv,18-25,M,Bronze
+962,2022-02-13,Nazareth,North,50+,F,Silver
+963,2022-05-26,Rishon LeZion,Center,50+,M,Bronze
+964,2022-01-15,Rishon LeZion,Center,18-25,F,Bronze
+965,2022-08-28,Tiberias,North,36-50,F,Bronze
+966,2022-10-30,Rishon LeZion,Center,50+,F,Bronze
+967,2022-11-24,Maale Adumim,Jerusalem,36-50,F,Silver
+968,2022-02-15,Eilat,South,50+,F,Bronze
+969,2022-05-14,Tiberias,North,26-35,F,Silver
+970,2022-09-25,Tel Aviv,Tel Aviv,26-35,F,Bronze
+971,2022-10-01,Tiberias,North,18-25,F,Silver
+972,2022-01-05,Ashkelon,South,50+,F,Gold
+973,2022-01-04,Jerusalem,Jerusalem,36-50,M,Silver
+974,2022-07-22,Ashdod,South,26-35,M,Bronze
+975,2022-04-23,Ashdod,South,36-50,M,Bronze
+976,2022-09-22,Eilat,South,36-50,F,Bronze
+977,2022-07-31,Beit Shemesh,Jerusalem,26-35,M,Silver
+978,2022-05-29,Rishon LeZion,Center,18-25,F,Bronze
+979,2022-05-20,Beit Shemesh,Jerusalem,50+,M,Bronze
+980,2022-03-19,Haifa,North,18-25,M,Silver
+981,2022-05-25,Petah Tikva,Center,36-50,M,Bronze
+982,2022-04-30,Beer Sheva,South,18-25,M,Silver
+983,2022-04-22,Bat Yam,Tel Aviv,36-50,F,Bronze
+984,2022-07-10,Tiberias,North,50+,M,Bronze
+985,2022-03-16,Haifa,North,18-25,F,Silver
+986,2022-10-06,Beer Sheva,South,50+,M,Bronze
+987,2022-07-15,Rehovot,Center,18-25,M,Silver
+988,2022-08-15,Holon,Center,26-35,M,Bronze
+989,2022-02-18,Holon,Center,26-35,F,Bronze
+990,2022-06-15,Ashkelon,South,26-35,M,Gold
+991,2022-03-04,Maale Adumim,Jerusalem,36-50,F,Silver
+992,2022-07-04,Nazareth,North,18-25,M,Silver
+993,2022-11-21,Ramat Gan,Tel Aviv,50+,F,Bronze
+994,2022-05-22,Ramat Gan,Tel Aviv,18-25,F,Silver
+995,2022-01-22,Petah Tikva,Center,50+,M,Bronze
+996,2022-05-08,Haifa,North,26-35,F,Bronze
+997,2022-11-17,Givatayim,Tel Aviv,18-25,M,Gold
+998,2022-12-26,Nazareth,North,18-25,M,Bronze
+999,2022-06-12,Eilat,South,36-50,F,Platinum
+1000,2022-12-19,Petah Tikva,Center,50+,F,Bronze
